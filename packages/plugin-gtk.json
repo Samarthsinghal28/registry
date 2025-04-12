@@ -1,0 +1,39 @@
+{
+  "name": "@elizaos/plugin-gtk",
+  "description": "ElizaOS plugin for Sifchain GTK margin trading platform",
+  "repository": {
+    "type": "git",
+    "url": "github:Samarthsinghal28/plugin-gtk"
+  },
+  "maintainers": [
+    {
+      "name": "Samarthsinghal28",
+      "github": "Samarthsinghal28"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "elizaos",
+    "plugin",
+    "sifchain",
+    "gtk",
+    "trading",
+    "margin",
+    "cryptocurrency"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0",
+      "gitBranch": "1.0.0",
+      "gitTag": "v1.0.0",
+      "runtimeVersion": "1.0.0-beta.28",
+      "releaseDate": "2025-04-12T17:43:44.048Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "1.0.0",
+  "latestVersion": "1.0.0",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
