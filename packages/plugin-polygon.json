@@ -1,0 +1,33 @@
+{
+  "name": "@elizaos/plugin-polygon",
+  "description": "Polygon integration for ElizaOS",
+  "repository": {
+    "type": "git",
+    "url": "github:elizaos-plugins/plugin-polygon"
+  },
+  "maintainers": [
+    {
+      "name": "Samarthsinghal28",
+      "github": "Samarthsinghal28"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0-beta.40",
+      "gitBranch": "1.0.0-beta.40",
+      "gitTag": "v1.0.0-beta.40",
+      "runtimeVersion": "1.0.0-beta.41",
+      "releaseDate": "2025-05-18T03:12:48.062Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": null,
+  "latestVersion": "1.0.0-beta.40",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
